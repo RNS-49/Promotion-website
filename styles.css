@@ -123,5 +123,14 @@ overflow-x: hidden;
   margin: 10px;
   color:white;
 }
-
+@media(max-width:320px){
+  .heading{
+  position: relative;
+  top: 3rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: black;
+}
+}
   
