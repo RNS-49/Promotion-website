@@ -1,0 +1,127 @@
+
+
+body{
+overflow-x: hidden;
+}
+
+/*navigation bar*/
+
+#title{
+  background-color: rgb(15, 1, 27);
+  
+}
+.nav-item{
+ position: relative;
+ margin-right: 5rem;
+ margin-top: 1rem;
+ margin-bottom: 1rem;
+}
+
+#firstbtn{
+ 
+  border-radius: 20px;
+  border: 3px solid white;
+  cursor: pointer;
+  outline: none;
+  color: white;
+}
+
+/*heading section*/
+
+.title{
+  background-color: rgb(173, 15, 170);
+  text-align: center;
+  padding-bottom: 4rem;
+}
+
+.heading{
+  position: relative;
+  top: 3rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 60px;
+  color: black;
+}
+.image1{
+  position: relative;
+  top: 2rem;
+  width: 100%;
+  right: 3rem;
+}
+.image2{
+  position: relative;
+  top: 4rem;
+  width: 100%;
+}
+
+/*Description about service*/
+
+.des{
+  text-align: center;
+}
+.whyus{
+  position: relative;
+  top: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+ font-weight: bold;
+}
+.explain{
+  font-style: italic;
+  position: relative;
+  top: 2rem;
+}
+.down{
+  position: relative;
+  padding-top: 2rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.download-btn{
+  position: relative;
+  margin: 1rem;
+  margin-bottom: 3rem;
+  
+}
+
+/*Pricing section*/
+
+#price{
+  margin: auto;
+  text-align: center;
+  background-color: rgb(251, 248, 251);
+}
+.order{
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  position: relative;
+  top: 1rem;
+  bottom: 2rem;
+}
+.par{
+  position: relative;
+  top: 1rem;
+}
+.card{
+  top: 2rem;
+  bottom: 2rem;
+}
+
+/*Contact details section*/
+
+
+.address{
+  text-align: center;
+  position: relative;
+  top: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  bottom: 0rem;
+  background-color: rgb(15, 1, 27);
+  color: white;
+  font-family: monospace;
+}
+.icons{
+  margin: 10px;
+  color:white;
+}
+
+  
