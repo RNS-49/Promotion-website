@@ -129,8 +129,27 @@ overflow-x: hidden;
   top: 3rem;
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
-  font-size: 10%;
+  font-size: 40px;
   color: black;
 }
 }
-  
+@media(max-width:375px){
+  .heading{
+  position: relative;
+  top: 3rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: black;
+}
+}
+@media(max-width:425px){
+  .heading{
+  position: relative;
+  top: 3rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: black;
+}
+}  
